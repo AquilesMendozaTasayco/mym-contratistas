@@ -73,7 +73,7 @@ export default function Contacto() {
                 </div>
                 <div>
                   <h4 className="text-lg font-bold uppercase text-gray-800 mb-1">Teléfono</h4>
-                  <p className="text-gray-600 text-lg">(+51) 900 000 000</p>
+                  <p className="text-gray-600 text-lg">(+51) 924 435 338</p>
                 </div>
               </div>
 
@@ -83,7 +83,7 @@ export default function Contacto() {
                 </div>
                 <div>
                   <h4 className="text-lg font-bold uppercase text-gray-800 mb-1">Correo</h4>
-                  <p className="text-gray-600 text-lg">contacto@mym.com</p>
+                  <p className="text-gray-600 text-lg">informes@mymcontratistas.com</p>
                 </div>
               </div>
 

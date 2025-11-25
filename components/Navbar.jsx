@@ -32,7 +32,7 @@ export default function Navbar() {
         <div className="hidden md:flex items-center gap-12 text-sm text-gray-800">
           <div className="flex flex-col leading-tight">
             <span className="text-xs text-gray-500">Llámanos</span>
-            <span className="font-semibold">(+51) 974-664-904</span>
+            <span className="font-semibold">(+51) 924-435-338</span>
           </div>
 
           <div className="w-px bg-gray-300 h-10"></div>
