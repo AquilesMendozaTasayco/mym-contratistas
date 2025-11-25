@@ -91,7 +91,7 @@ export default function Home() {
           </h3>
 
           <a
-            href="https://wa.me/51900000000"
+            href="https://wa.me/51924435338"
             target="_blank"
             className="mt-4 md:mt-0 bg-[#1F232B] hover:bg-black text-white px-6 py-3 font-semibold rounded-sm transition"
           >

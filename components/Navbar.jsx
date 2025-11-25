@@ -54,7 +54,7 @@ export default function Navbar() {
         </div>
 
         <a
-          href="https://wa.me/51974664904"
+          href="https://wa.me/51924435338"
           target="_blank"
           className="hidden md:block bg-[#F5A623] hover:bg-[#e0941f] text-white px-6 py-3 font-semibold rounded-sm transition"
         >
@@ -91,7 +91,7 @@ export default function Navbar() {
           <a href="/contacto" onClick={() => setOpen(false)} className="hover:text-yellow-500 transition">Contacto</a>
 
           <a
-            href="https://wa.me/51974664904"
+            href="https://wa.me/51924435338"
             target="_blank"
             className="mt-4 bg-[#F5A623] hover:bg-[#e0941f] text-white py-3 text-center font-semibold rounded-sm transition"
           >

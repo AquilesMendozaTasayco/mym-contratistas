@@ -28,9 +28,9 @@ export default function Footer() {
 
           {/* SOCIAL */}
           <div className="flex gap-5 text-gray-300 text-lg mt-6">
-            <a href="#" className="hover:text-yellow-500 transition"><FaFacebookF /></a>
-            <a href="#" className="hover:text-yellow-500 transition"><FaInstagram /></a>
-            <a href="https://wa.me/51900000000" target="_blank" className="hover:text-yellow-500 transition"><FaWhatsapp /></a>
+            <a href="https://www.facebook.com/mym.contratistas.pe/" className="hover:text-yellow-500 transition"><FaFacebookF /></a>
+            <a href="https://www.instagram.com/mymconstructora/?hl=es-la" className="hover:text-yellow-500 transition"><FaInstagram /></a>
+            <a href="https://wa.me/51924435338" target="_blank" className="hover:text-yellow-500 transition"><FaWhatsapp /></a>
           </div>
         </div>
 
